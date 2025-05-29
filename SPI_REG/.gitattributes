@@ -1,10 +1,10 @@
-SPI_REG/Core/Inc/** linguist-vendored
-SPI_REG/Core/Startup/** linguist-vendored
-SPI_REG/.settings/** linguist-vendored
-SPI_REG/Debug/** linguist-vendored
-SPI_REG/Drivers/** linguist-vendored
-SPI_REG/.cproject** linguist-vendored
-SPI_REG/.mxproject** linguist-vendored
-SPI_REG/.project** linguist-vendored
-SPI_REG/SPI_REG Debug.launch** linguist-vendored
-SPI_REG/SPI_REG.ioc** linguist-vendored
+STM32-SPI/SPI_REG/Core/Inc/** linguist-vendored
+STM32-SPI/SPI_REG/Core/Startup/** linguist-vendored
+STM32-SPI/SPI_REG/.settings/** linguist-vendored
+STM32-SPI/SPI_REG/Debug/** linguist-vendored
+STM32-SPI/SPI_REG/Drivers/** linguist-vendored
+STM32-SPI/SPI_REG/.cproject** linguist-vendored
+STM32-SPI/SPI_REG/.mxproject** linguist-vendored
+STM32-SPI/SPI_REG/.project** linguist-vendored
+STM32-SPI/SPI_REG/SPI_REG Debug.launch** linguist-vendored
+STM32-SPI/SPI_REG/SPI_REG.ioc** linguist-vendored
