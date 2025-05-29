@@ -3,3 +3,8 @@ SPI_REG/Core/Startup/** linguist-vendored
 SPI_REG/.settings/** linguist-vendored
 SPI_REG/Debug/** linguist-vendored
 SPI_REG/Drivers/** linguist-vendored
+SPI_REG/.cproject** linguist-vendored
+SPI_REG/.mxproject** linguist-vendored
+SPI_REG/.project** linguist-vendored
+SPI_REG/SPI_REG Debug.launch ** linguist-vendored
+SPI_REG/SPI_REG.ioc ** linguist-vendored
