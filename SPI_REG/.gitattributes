@@ -8,3 +8,5 @@ Drivers/** linguist-vendored
 .project** linguist-vendored
 SPI_REG Debug.launch** linguist-vendored
 SPI_REG.ioc** linguist-vendored
+STM32G474RETX_FLASH.Id** linguist-vendored
+STM32G474RETX_RAM.Id** linguist-vendored
