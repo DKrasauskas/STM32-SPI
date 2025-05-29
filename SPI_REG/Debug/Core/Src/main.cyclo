@@ -1,0 +1,13 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Core/Src/main.c:60:6:gpio_cnfg	1
+../Core/Src/main.c:65:6:gpio_cnfg_direct	1
+../Core/Src/main.c:71:6:spi_cnfg_direct	1
+../Core/Src/main.c:98:6:spi_cnfg	1
+../Core/Src/main.c:151:6:DMA_cnfg	1
+../Core/Src/main.c:159:6:SPI2_IRQHandler	4
+../Core/Src/main.c:172:6:transfer_function	2
+../Core/Src/main.c:187:5:main	2
+../Core/Src/main.c:274:6:SystemClock_Config	3
+../Core/Src/main.c:321:13:MX_GPIO_Init	1
+../Core/Src/main.c:346:6:Error_Handler	1
